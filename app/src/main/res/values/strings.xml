@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="www_google_com">www.google.com</string>
+    <string name="title_activity_button_navigation">ButtonNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_buttonactivity">ButtonactivityActivity</string>
+    <string-array name="app_array">
+        <item>World1</item>
+        <item>World2</item>
+        <item>World3</item>
+        <item>World4</item>
+        <item>World5</item>
+        <item>World6</item>
+        <item>World7</item>
+        <item>World8</item>
+        <item>World9</item>
+    </string-array>
+</resources>
